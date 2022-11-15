@@ -1017,6 +1017,7 @@
 }
 
 .category__heading {
+    display: flex;
     font-size: 1.6rem;
     padding: 20px 0;
     border-bottom: 1px solid var(--separate-color);
